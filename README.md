@@ -22,7 +22,7 @@ digital-clock/
 
 1. **Clone or Download** this repository:
    ```bash
-   git clone https://github.com/yourusername/digital-clock.git
+   git clone https://github.com/gauravsudhirkumarmishra/digital-clock.git
    ```
 2. Open the `index.html` file in your browser.
 3. The clock will start and display the current time automatically.
